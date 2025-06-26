@@ -62,3 +62,5 @@ Types of Requirements.
 Functional Requirements – Describe what the system should do (e.g., login, payment processing).
 
 Non-Functional Requirements – Define system qualities (e.g., performance, security, usability).
+
+Use Case Diagrams.
