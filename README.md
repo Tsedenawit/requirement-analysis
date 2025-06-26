@@ -64,3 +64,5 @@ Functional Requirements – Describe what the system should do (e.g., login, pay
 Non-Functional Requirements – Define system qualities (e.g., performance, security, usability).
 
 Use Case Diagrams.
+
+Acceptance Criteria.
