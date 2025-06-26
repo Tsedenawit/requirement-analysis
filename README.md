@@ -30,3 +30,10 @@ Getting formal approval from stakeholders.
 Requirement Management
 
 Tracking changes to requirements and maintaining consistency throughout the project lifecycle.
+
+Why is Requirement Analysis Important?
+Early corrections cost significantly less than post-launch fixes
+
+Reduces scope creep and unnecessary features
+
+Helps allocate resources more effectively
