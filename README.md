@@ -57,3 +57,8 @@ Requirement Analysis & Prioritization
 Clarifying, organizing, and resolving conflicts among requirements.
 
 Prioritizing requirements based on business value and feasibility.
+
+Types of Requirements.
+Functional Requirements – Describe what the system should do (e.g., login, payment processing).
+
+Non-Functional Requirements – Define system qualities (e.g., performance, security, usability).
