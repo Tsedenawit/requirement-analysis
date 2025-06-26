@@ -37,3 +37,23 @@ Early corrections cost significantly less than post-launch fixes
 Reduces scope creep and unnecessary features
 
 Helps allocate resources more effectively
+
+Key Activities in Requirement Analysis.
+
+Requirement Validation
+
+Ensuring the documented requirements are complete, feasible, relevant, and testable.
+
+Getting formal approval from stakeholders.
+
+Requirement Elicitation
+
+Gathering information through interviews, surveys, workshops, observation, and existing documentation.
+
+Stakeholders include users, clients, product owners, and subject matter experts.
+
+Requirement Analysis & Prioritization
+
+Clarifying, organizing, and resolving conflicts among requirements.
+
+Prioritizing requirements based on business value and feasibility.
